@@ -22,9 +22,9 @@
  ### 🛠️ GitHub Stats
 
 <div align="center" style="display: flex">
-  <a href="https://github.com/rodrigofplourenco">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=rodrigofplourenco&theme=github&bg_color=20232a&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofplourenco&hide_border=1&theme=dracula&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
+  <a href="https://github.com/rlourenco-odoogap">
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=rlourenco-odoogap&theme=github&bg_color=20232a&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlourenco-odoogap&hide_border=1&theme=dracula&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
 </div>
   
 ### 🛠️ Techs
@@ -35,7 +35,8 @@
   <img align="center" alt="rodrigofplourenco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rodrigofplourenco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rodrigofplourenco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="rodrigofplourenco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="rodrigofplourenco-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="rodrigofplourenco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
@@ -45,10 +46,5 @@
 <div> 
   <a href="https://instagram.com/rodrigofplourenco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/KhNtBPnbUr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigofplourenco2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-   ### 🛠️ Commits
-  
-  ![Snake animation](https://github.com/rodrigofplourenco/rodrigofplourenco/blob/output/github-contribution-grid-snake.svg) 
-  
+  <a href = "mailto:rlourenco@odoogap.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
